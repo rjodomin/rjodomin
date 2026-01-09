@@ -1,10 +1,11 @@
 # 👋 Hi there! I'm **Raisa J Ochoa**
 
-### 🔭 Full‑Stack Developer | Passionate about web development and new technologies | Love exploring audiovisual technologies, design, and the blend of programming with art
+### 🔭 Full‑Stack Developer | Passionate about web development and new technologies | Exploring the intersection of technology, design, and art
 
 🌍 Based in **Sevilla**  
 💼 Currently studying at **MEDAC**  
-🚀 I love learning new technologies and building clean, useful projects
+🚀 Learning new technologies and building clean, useful projects
+❤️ Passionate about **web development**, **audiovisual technologies**, **creative design**, and blending **programming with artistic expression** 
 
 ---
 
