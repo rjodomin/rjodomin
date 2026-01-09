@@ -4,8 +4,8 @@
 
 🌍 Based in **Sevilla**  
 💼 Currently studying at **MEDAC**  
-🚀 Learning new technologies and building clean, useful projects
-❤️ Passionate about **web development**, **audiovisual technologies**, **creative design**, and blending **programming with artistic expression** 
+🚀 Learning new technologies and building clean, useful projects  
+📸 Passionate about **web development**, **audiovisual technologies**, **creative design**, and blending **programming with artistic expression** 
 
 ---
 
