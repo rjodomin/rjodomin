@@ -3,7 +3,7 @@
 ### 🔭 Full‑Stack Developer | Passionate about web development and new technologies | Exploring the intersection of technology, design, and art
 
 🌍 Based in **Sevilla**  
-💼 Currently working as a Junior Full Stack Developer Intern at EDUCA360, gaining hands-on experience in web application development and strengthening my frontend and backend skills.
+💼 Currently working as a **Junior Full Stack Developer Intern at EDUCA360**, gaining hands-on experience in web application development and strengthening my frontend and backend skills.
 🚀 Learning new technologies and building clean, useful projects  
 📸 Passionate about **web development**, **audiovisual technologies**, **creative design**, and blending **programming with artistic expression** 
 
